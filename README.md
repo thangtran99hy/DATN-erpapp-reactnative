@@ -1,6 +1,7 @@
-Để cài đặt các package yêu cầu :
+To install packages :
 ### `yarn install` hoặc `npm install`
-Để bắt đầu Metro :
+To start Metro :
 ### `npx react-native start`
-Kết nối máy tính với thiết bị ảo hoặc thiết bị thật và bắt đầu chạy ứng dụng :
+To connect device and run application in Android/IOS :
 ### `npx react-native run-android`
+### `npx react-native run-ios`
